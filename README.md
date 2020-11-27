@@ -1,4 +1,4 @@
-# aticles
-## oncreator的技术博客
+# articles
+oncreator的技术博客
 
 # gg
